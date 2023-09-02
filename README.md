@@ -36,7 +36,7 @@ based full reference video quality assessment
 algorithm based on optical flow. 
 The experimental results demonstrate that
 the proposed model improves the state of art. Here is the Link : 
-# https://dl.acm.org/doi/abs/10.1145/3243250.3243271
+https://dl.acm.org/doi/abs/10.1145/3243250.3243271
 
 
 # Enhanced optical flow-based full reference video quality assessment algorithm
