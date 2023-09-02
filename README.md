@@ -1,6 +1,6 @@
 # Video-Quality-Assessment-Algorithms
 
-# https://doi.org/10.1504/IJHPCN.2020.112701
+# An optical flow direction-based full reference video quality assessment algorithm
 Abtsrcat: 
 Modelling of functions of visual cortex and 
 optical flow field has made it possible to 
@@ -19,9 +19,9 @@ hence it results in reduced video quality scores.
 Our proposed method achieved high video quality score and higher correlation 
 with formally existed algorithm and near to the objective scores. 
 Our experimental results demonstrate that the proposed algorithm improves the state of art.
+Here is the Link : https://doi.org/10.1504/IJHPCN.2020.112701
 
-# https://dl.acm.org/doi/abs/10.1145/3243250.3243271
-
+# HVS Based Full Reference Video Quality Assessment Based on Optical Flow 
 The use of statistical features of optical flow: mean, 
 standard deviation of flow magnitudes and minimum eigenvalue
 of optical flow patch's covariance matrix, in measuring the 
@@ -35,9 +35,11 @@ Based on this hypothesis, we present an HVS
 based full reference video quality assessment 
 algorithm based on optical flow. 
 The experimental results demonstrate that
-the proposed model improves the state of art.
+the proposed model improves the state of art. Here is the Link : 
+# https://dl.acm.org/doi/abs/10.1145/3243250.3243271
 
-# https://rdcu.be/dkZEJ
+
+# Enhanced optical flow-based full reference video quality assessment algorithm
 
 Full reference video quality assessment based on optical flow is emerging.
 Human Visual System (HVS) based video quality assessment algorithms are
@@ -58,4 +60,4 @@ two video quality assessment algorithms with DMOS scores.
 Here INT-CWC measure is a novel attempt. 
 The performance of proposed scheme is evaluated using the 
 LIVE dataset and scheme is shown to be competitive with,
-and even out-perform, existing video quality assessment algorithms.
+and even out-perform, existing video quality assessment algorithms. Here is the Link :https://rdcu.be/dkZEJ
